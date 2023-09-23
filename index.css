@@ -1,0 +1,55 @@
+body{
+
+    text-align: center;
+
+}
+
+h1{
+
+    color: red;
+
+}
+
+input, button{
+    border: 5px solid orchid;
+
+    width: 300px;
+
+    height: 50px;
+
+    border-radius: 10px;
+
+    outline: none;
+
+    padding: 10px;
+     font-size: 20px;
+
+}
+
+button{
+
+    border: 3px solid orchid;
+
+    background:blue;
+
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.rem{
+
+    width: 30px;
+
+    float: right;
+
+    height: 30px;
+
+}
+
+ol{
+
+    text-align:left;
+
+}
+
